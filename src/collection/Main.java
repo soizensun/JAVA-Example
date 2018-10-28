@@ -110,6 +110,8 @@ public class Main {
         studentMap.put("6010405092", new Student("kitpavin"));
         studentMap.put("0000000000", new Student("Earth"));
         studentMap.put("6014575454", new Student("tomtam"));
+        studentMap.put("6014575454", new Student("tomtam1"));
+        studentMap.put("6014575454", new Student("tomtam2"));
 
         for (String id : studentMap.keySet()) {
             Student s = studentMap.get(id);

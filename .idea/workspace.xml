@@ -2,132 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30631f14-016c-4647-9f16-42dcb25ba79a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ZOZEN.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaN1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/GameCharacter/GameCharacter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/GameCharacter/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/HowToUseSuperConstructor/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/HowToUseSuperConstructor/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/HowToUseSuperConstructor/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/HowToUseSuperConstructor/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L01/Fraction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L01/MainFraction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L02/Costomer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L02/MainCostomer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L03/MainNumberGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L03/NumberGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L04/MainMasterMind.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L04/MasterMind.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L05/.idea/L05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L05/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L05/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L05/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L05/HangMan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L05/MainHangMan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L06/MainMasterBall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L06/MonsterBall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L07/Dictionary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L07/MainC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/L07/Vocabulary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/Test/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/Test/Sub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/Test/Super.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/Test2/Base.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/Test2/Derive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/Test2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/Test3/Child.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/Test3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/Test3/Parent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/collection/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/collection/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/collection/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/collection/Subject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/collection/SubjectLevelComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/exception/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/exception/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/foodCenter/Blue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/foodCenter/FoodCenterCard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/foodCenter/FoodCenterCardReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/foodCenter/Green.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/foodCenter/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/genericlesson/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/genericlesson/Queue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/problem1/Face1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/problem1/Implement1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/problem1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/problem2/Face2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/problem2/Implement2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/problem2/Imprement2_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/problem2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/problem3/Face3_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/problem3/Face3_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/problem3/Implement3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaN1/problem3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameCharacter/GameCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameCharacter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HowToUseSuperConstructor/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HowToUseSuperConstructor/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HowToUseSuperConstructor/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HowToUseSuperConstructor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L01/Fraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L01/MainFraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L02/Costomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L02/MainCostomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L03/MainNumberGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L03/NumberGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L04/MainMasterMind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L04/MasterMind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L05/.idea/L05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L05/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L05/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L05/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L05/HangMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L05/MainHangMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L06/MainMasterBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L06/MonsterBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L07/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L07/MainC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L07/Vocabulary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test2/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test2/Derive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test3/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test3/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/SubjectLevelComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/foodCenter/Blue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/foodCenter/FoodCenterCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/foodCenter/FoodCenterCardReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/foodCenter/Green.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/foodCenter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/genericlesson/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/genericlesson/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem1/Face1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem1/Implement1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem2/Face2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem2/Implement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem2/Imprement2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem3/Face3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem3/Face3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem3/Implement3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem3/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../code/codejava/Account.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../code/codejava/Account.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../code/codejava/test.class" afterDir="false" />
@@ -306,6 +180,12 @@
       <change beforePath="$PROJECT_DIR$/../../../116/test1.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../116/test2.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../888.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaN1/GameCharacter/GameCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/GameCharacter/GameCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaN1/GameCharacter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/GameCharacter/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameCharacter/GameCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameCharacter/GameCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameCharacter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameCharacter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -365,10 +245,12 @@
     <session id="1879422448">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.29" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -385,12 +267,12 @@
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="544" />
+          <entry key="java" value="2754" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="544" />
+          <entry key="JAVA" value="2754" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -398,14 +280,14 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5288591">
+    <splitter split-orientation="horizontal" split-proportion="0.67181206">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/GameCharacter/GameCharacter.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="361">
-                  <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+                <state relative-caret-position="-1431">
+                  <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -416,8 +298,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/GameCharacter/Main.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="95">
-                  <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+                <state relative-caret-position="1045">
+                  <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
                 </state>
               </provider>
             </entry>
@@ -429,8 +311,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/collection/Main.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-989">
-                  <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+                <state relative-caret-position="75">
+                  <caret line="111" column="60" selection-start-line="111" selection-start-column="60" selection-end-line="111" selection-end-column="60" />
                 </state>
               </provider>
             </entry>
@@ -495,13 +377,13 @@
         <option value="$PROJECT_DIR$/src/Test4InterfaceAndAbstract/C.java" />
         <option value="$PROJECT_DIR$/src/Test4InterfaceAndAbstract/D.java" />
         <option value="$PROJECT_DIR$/src/Test4InterfaceAndAbstract/Main.java" />
-        <option value="$PROJECT_DIR$/src/collection/Main.java" />
         <option value="$PROJECT_DIR$/src/Test/Sub.java" />
         <option value="$PROJECT_DIR$/src/Test/Super.java" />
         <option value="$PROJECT_DIR$/src/Test/Main.java" />
         <option value="$PROJECT_DIR$/src/Test2/Main.java" />
         <option value="$PROJECT_DIR$/src/exception/Main.java" />
         <option value="$PROJECT_DIR$/src/exception/A.java" />
+        <option value="$PROJECT_DIR$/src/collection/Main.java" />
         <option value="$PROJECT_DIR$/src/GameCharacter/Main.java" />
         <option value="$PROJECT_DIR$/src/GameCharacter/GameCharacter.java" />
       </list>
@@ -521,53 +403,21 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="210" />
-    <option name="width" value="1719" />
-    <option name="height" value="1039" />
+    <option name="width" value="1720" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="javaN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaN1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaN1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaN1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaN1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="GameCharacter" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540379553282" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540483004933" />
+    <property name="last_opened_file_path" value="D:/javaFX/duofxproject" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -724,16 +574,17 @@
       <workItem from="1539654858029" duration="2461000" />
       <workItem from="1540301355254" duration="599000" />
       <workItem from="1540351892211" duration="6127000" />
-      <workItem from="1540380587166" duration="3767000" />
+      <workItem from="1540380587166" duration="6717000" />
+      <workItem from="1540473735167" duration="9145000" />
+      <workItem from="1540716014174" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107248000" />
+    <option name="totallyTimeSpent" value="119371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2080537" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -744,7 +595,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32885906" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.235461" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30738255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997253" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1074,22 +925,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GameCharacter/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        <state relative-caret-position="1045">
+          <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/collection/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-989">
-          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+        <state relative-caret-position="75">
+          <caret line="111" column="60" selection-start-line="111" selection-start-column="60" selection-end-line="111" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GameCharacter/GameCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="-1431">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
