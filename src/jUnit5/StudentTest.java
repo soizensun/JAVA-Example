@@ -2,6 +2,7 @@ package jUnit5;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.RepeatedTest;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -53,4 +54,6 @@ class StudentTest {
 
         assertEquals(0.0, student.getScore());
     }
+
+
 }

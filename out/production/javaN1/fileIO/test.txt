@@ -1,0 +1,2 @@
+introcom, Introduction to computer seience, 01418114, 2, Subject of com science, 1
+cal1, Calculus1, 01417111, 3, Mandatory subject, 1

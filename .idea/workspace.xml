@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30631f14-016c-4647-9f16-42dcb25ba79a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/fileIO/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../code/codejava/Account.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../code/codejava/Account.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../code/codejava/test.class" afterDir="false" />
@@ -180,78 +181,16 @@
       <change beforePath="$PROJECT_DIR$/../../../116/test1.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../116/test2.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../888.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaN1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaN1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaNExample.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/GameCharacter/GameCharacter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/GameCharacter/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/HowToUseSuperConstructor/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/HowToUseSuperConstructor/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/HowToUseSuperConstructor/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/HowToUseSuperConstructor/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L01/Fraction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L01/MainFraction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L02/Costomer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L02/MainCostomer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L03/MainNumberGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L03/NumberGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L04/MainMasterMind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L04/MasterMind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L05/.idea/L05.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L05/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L05/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L05/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L05/HangMan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L05/MainHangMan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L06/MainMasterBall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L06/MonsterBall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L07/Dictionary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L07/MainC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/L07/Vocabulary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/Test/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/Test/Sub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/Test/Super.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/Test2/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/Test2/Derive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/Test2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/Test3/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/Test3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/Test3/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/collection/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/collection/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/collection/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/collection/Subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/collection/SubjectLevelComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/exception/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/exception/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/foodCenter/Blue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/foodCenter/FoodCenterCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/foodCenter/FoodCenterCardReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/foodCenter/Green.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/foodCenter/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/genericlesson/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/genericlesson/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/jUnit5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/jUnit5/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/jUnit5/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/jUnit5/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/javaNExample.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/problem1/Face1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/problem1/Implement1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/problem1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/problem2/Face2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/problem2/Implement2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/problem2/Imprement2_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/problem2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/problem3/Face3_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/problem3/Face3_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/problem3/Implement3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/javaNExample/problem3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaN1/collection/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/collection/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaN1/collection/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/collection/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaN1/jUnit5/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaN1/jUnit5/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/jUnit5/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaN1/jUnit5/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/jUnit5/StudentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jUnit5/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jUnit5/Person1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jUnit5/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jUnit5/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jUnit5/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jUnit5/StudentTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -259,6 +198,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="2065261135">
@@ -311,7 +264,7 @@
     <session id="1879422448">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.24" value="1" />
@@ -344,32 +297,71 @@
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
     </session>
+    <session id="-529357387">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.26" value="3" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="48" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="48" />
+          <entry key="PLAIN_TEXT" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2399" />
+          <entry key="txt" value="71" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2399" />
+          <entry key="PLAIN_TEXT" value="71" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jUnit5/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jUnit5/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/jUnit5/StudentTest.java">
+        <entry file="file://$PROJECT_DIR$/src/unittest/ClassroomTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-361">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            <state relative-caret-position="437">
+              <caret line="28" column="17" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/unittest/Classroom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+              <folding>
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -380,9 +372,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>D:\Users\Desktop\folder\forStudy\_Java\javaN\javaN1\src</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -390,19 +388,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/L07/Vocabyrary.java" />
-        <option value="$PROJECT_DIR$/src/L07/Vocabulary.java" />
-        <option value="$PROJECT_DIR$/src/L07/MainC.java" />
-        <option value="$PROJECT_DIR$/src/L07/Dictionary.java" />
-        <option value="$PROJECT_DIR$/src/L06/MonsterBall.java" />
-        <option value="$PROJECT_DIR$/src/L06/MainMasterBall.java" />
-        <option value="$PROJECT_DIR$/src/L01/Fraction.java" />
-        <option value="$PROJECT_DIR$/src/L01/MainFraction.java" />
-        <option value="$PROJECT_DIR$/src/foodCenter/FoodCard.java" />
-        <option value="$PROJECT_DIR$/src/foodCenter/Gray.java" />
-        <option value="$PROJECT_DIR$/src/foodCenter/FoodCenterCard.java" />
-        <option value="$PROJECT_DIR$/src/foodCenter/Blue.java" />
-        <option value="$PROJECT_DIR$/src/foodCenter/FoodCenterFoodReader.java" />
         <option value="$PROJECT_DIR$/src/Test/Subject.java" />
         <option value="$PROJECT_DIR$/src/inheritance/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/PhoneAndPhonePackage/Phone.java" />
@@ -438,9 +423,22 @@
         <option value="$PROJECT_DIR$/src/Test2/Main.java" />
         <option value="$PROJECT_DIR$/src/exception/Main.java" />
         <option value="$PROJECT_DIR$/src/exception/A.java" />
-        <option value="$PROJECT_DIR$/src/collection/Main.java" />
         <option value="$PROJECT_DIR$/src/GameCharacter/Main.java" />
         <option value="$PROJECT_DIR$/src/GameCharacter/GameCharacter.java" />
+        <option value="$PROJECT_DIR$/src/jUnit5/Person.java" />
+        <option value="$PROJECT_DIR$/src/jUnit5/Person1.java" />
+        <option value="$PROJECT_DIR$/src/unitTest/StudentTest.java" />
+        <option value="$PROJECT_DIR$/src/unitTest/Person.java" />
+        <option value="$PROJECT_DIR$/src/unitTest/Classroom.java" />
+        <option value="$PROJECT_DIR$/src/unitTest/Student.java" />
+        <option value="$PROJECT_DIR$/src/collection/Main.java" />
+        <option value="$PROJECT_DIR$/src/unittest/Student.java" />
+        <option value="$PROJECT_DIR$/src/jUnit5/StudentTest.java" />
+        <option value="$PROJECT_DIR$/src/unittest/ClassroomTest.java" />
+        <option value="$PROJECT_DIR$/src/fileIO/Subject.java" />
+        <option value="$PROJECT_DIR$/src/fileIO/test.txt" />
+        <option value="$PROJECT_DIR$/src/fileIO/Main.java" />
+        <option value="$PROJECT_DIR$/src/unittest/Classroom.java" />
       </list>
     </option>
   </component>
@@ -457,9 +455,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="210" />
-    <option name="width" value="1720" />
-    <option name="height" value="1040" />
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -468,8 +466,8 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -486,7 +484,25 @@
               <item name="javaN" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaN1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaN1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fileIO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaN1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jUnit5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaN1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="unittest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -500,7 +516,10 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540996632241" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541655646000" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -510,8 +529,18 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="unittest" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="L07" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Desktop\folder\forStudy\_Java\javaN\javaN1\src\fileIO" />
+      <recent name="D:\Users\Desktop\folder\forStudy\_Java\javaN\javaN1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -527,54 +556,61 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.StudentTest">
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.Main" />
-      <module name="javaN1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GameCharacter.Main" />
-      <module name="javaN1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GameCharacter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Main" />
-      <module name="javaN1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.Main" />
+      <option name="MAIN_CLASS_NAME" value="fileIO.Main" />
       <module name="javaN1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="fileIO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassroomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaN1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unittest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unittest" />
+      <option name="MAIN_CLASS_NAME" value="unittest.ClassroomTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassroomTest.addScoreById_addScoreFromCollection_WhenReceiveIdAndScore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaN1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unittest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unittest" />
+      <option name="MAIN_CLASS_NAME" value="unittest.ClassroomTest" />
+      <option name="METHOD_NAME" value="addScoreById_addScoreFromCollection_WhenReceiveIdAndScore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassroomTest.size_getSizeOfCollection_WhenCall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaN1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unittest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unittest" />
+      <option name="MAIN_CLASS_NAME" value="unittest.ClassroomTest" />
+      <option name="METHOD_NAME" value="size_getSizeOfCollection_WhenCall" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -594,19 +630,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.ClassroomTest" />
+      <item itemvalue="JUnit.ClassroomTest.size_getSizeOfCollection_WhenCall" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (6)" />
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="JUnit.ClassroomTest.addScoreById_addScoreFromCollection_WhenReceiveIdAndScore" />
       <item itemvalue="JUnit.StudentTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.StudentTest" />
-        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="JUnit.ClassroomTest.addScoreById_addScoreFromCollection_WhenReceiveIdAndScore" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (6)" />
+        <item itemvalue="JUnit.ClassroomTest" />
+        <item itemvalue="JUnit.ClassroomTest.size_getSizeOfCollection_WhenCall" />
       </list>
     </recent_temporary>
   </component>
@@ -662,23 +698,62 @@
       <workItem from="1540380587166" duration="6717000" />
       <workItem from="1540473735167" duration="9145000" />
       <workItem from="1540716014174" duration="28000" />
-      <workItem from="1540995513647" duration="1118000" />
+      <workItem from="1540995513647" duration="1894000" />
+      <workItem from="1541040648924" duration="1449000" />
+      <workItem from="1541043377505" duration="1478000" />
+      <workItem from="1541258929533" duration="1180000" />
+      <workItem from="1541309156196" duration="10586000" />
+      <workItem from="1541396345971" duration="2242000" />
+      <workItem from="1541429136622" duration="603000" />
+      <workItem from="1541477984740" duration="301000" />
+      <workItem from="1541516283698" duration="1673000" />
+      <workItem from="1541601179809" duration="8820000" />
+      <workItem from="1541642050426" duration="90000" />
+      <workItem from="1541642168519" duration="3666000" />
+      <workItem from="1541655172602" duration="374000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StudentTest - 2018.10.31 at 21h 21m 00s.xml">
-      <configuration name="StudentTest" configurationId="JUnit" />
+    <history-entry file="ClassroomTest_getScoreById_getScoreFromCollection__WhenReceiveId - 2018.11.07 at 23h 05m 27s.xml">
+      <configuration name="ClassroomTest.getScoreById_getScoreFromCollection__WhenReceiveId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassroomTest_getScoreById_getScoreFromCollection__WhenReceiveId - 2018.11.07 at 23h 10m 40s.xml">
+      <configuration name="ClassroomTest.getScoreById_getScoreFromCollection__WhenReceiveId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassroomTest_averageScore_getAverageScoreFormCollection_WhenCell - 2018.11.07 at 23h 26m 06s.xml">
+      <configuration name="ClassroomTest.averageScore_getAverageScoreFormCollection_WhenCell" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassroomTest_averageScore_getAverageScoreFormCollection_WhenCell - 2018.11.07 at 23h 26m 29s.xml">
+      <configuration name="ClassroomTest.averageScore_getAverageScoreFormCollection_WhenCell" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassroomTest_averageScore_getAverageScoreFormCollection_WhenCell - 2018.11.07 at 23h 39m 15s.xml">
+      <configuration name="ClassroomTest.averageScore_getAverageScoreFormCollection_WhenCell" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassroomTest_averageScore_getAverageScoreFormCollection_WhenCell - 2018.11.07 at 23h 39m 21s.xml">
+      <configuration name="ClassroomTest.averageScore_getAverageScoreFormCollection_WhenCell" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassroomTest - 2018.11.07 at 23h 41m 27s.xml">
+      <configuration name="ClassroomTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassroomTest_totalScore_getTotalScore_WhenCall - 2018.11.07 at 23h 48m 29s.xml">
+      <configuration name="ClassroomTest.totalScore_getTotalScore_WhenCall" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassroomTest_size_getSizeOfCollection_WhenCall - 2018.11.07 at 23h 50m 45s.xml">
+      <configuration name="ClassroomTest.size_getSizeOfCollection_WhenCall" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassroomTest - 2018.11.07 at 23h 50m 50s.xml">
+      <configuration name="ClassroomTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120489000" />
+    <option name="totallyTimeSpent" value="153727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2080537" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13825503" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -686,8 +761,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32885906" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30738255" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.304698" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997253" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -695,8 +770,8 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32765958" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32707775" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3261745" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -704,7 +779,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3295302" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
@@ -741,63 +816,36 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/infohinding/MedicalVisit.java" />
-    <entry file="file://$PROJECT_DIR$/src/infohinding/Medicine.java" />
-    <entry file="file://$PROJECT_DIR$/src/infohinding/FinanceManager.java" />
-    <entry file="file://$PROJECT_DIR$/src/foodCenter/Green.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/foodCenter/FoodCenterCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abtract/Person.java" />
-    <entry file="file://$PROJECT_DIR$/src/genericlesson/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericlesson/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HowToUseSuperConstructor/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HowToUseSuperConstructor/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HowToUseSuperConstructor/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HowToUseSuperConstructor/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1004,9 +1052,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1017,20 +1062,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collection/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="111" column="60" selection-start-line="111" selection-start-column="60" selection-end-line="111" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jUnit5/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/jUnit5/Person1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/unittest/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/collection/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="41" column="52" lean-forward="true" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_6010405211-lab08.zip/6010405211-lab08/src/ClassroomTest.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_6010405211-lab08.zip/6010405211-lab08/src/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/unittest/StudentTest.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_6010405211-lab08.zip/6010405211-lab08/src/Classroom.java" />
     <entry file="file://$PROJECT_DIR$/src/jUnit5/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1040,8 +1090,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jUnit5/StudentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-361">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        <state relative-caret-position="361">
+          <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unittest/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/fileIO/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fileIO/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fileIO/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unittest/Classroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding>
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unittest/ClassroomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="17" />
         </state>
       </provider>
     </entry>

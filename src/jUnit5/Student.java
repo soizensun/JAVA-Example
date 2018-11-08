@@ -1,6 +1,6 @@
 package jUnit5;
 
-public class Student extends Person{
+public class Student extends Person1 {
     private String id;
     private double score;
 

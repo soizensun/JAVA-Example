@@ -37,8 +37,9 @@ public class Main {
         studentArrayList.add(new Student("Zen"));
 
         System.out.println("size : " + studentArrayList.size());
-        System.out.println("Emtry? : " + studentArrayList.isEmpty());
+        System.out.println("Empty? : " + studentArrayList.isEmpty());
         System.out.println(studentArrayList);
+        System.out.println(studentArrayList.get(1));
 
         for(Student s : studentArrayList){
             s.addScore(100);
