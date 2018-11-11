@@ -1,5 +1,7 @@
 package fileIO;
 
+import java.util.Arrays;
+
 public class Subject {
     private String name;
     private String code;
@@ -61,17 +63,20 @@ public class Subject {
         this.detail = detail;
     }
 
-//    @Override
-//    public String toString() {
-//        return "Subject{" +
-//                "name='" + name + '\'' +
-//                ", code='" + code + '\'' +
-//                ", grade=" + grade +
-//                ", credit=" + credit +
-//                ", pre=" + Arrays.toString(pre) +
-//                ", canLearn=" + canLearn() +
-//                '}';
-//    }
+    @Override
+    public String toString() {
+        return "Subject{" +
+                "name='" + name + '\'' +
+                ", code='" + code + '\'' +
+                ", grade=" + grade +
+                ", credit=" + credit +
+                ", pre=" + Arrays.toString(pre) +
+                ", typeOfSubject='" + typeOfSubject + '\'' +
+                ", isAlreadyLearn=" + isAlreadyLearn +
+                ", detail='" + detail + '\'' +
+                ", level=" + level +
+                '}';
+    }
 
     /* ----------- GETTER ----------- */
 

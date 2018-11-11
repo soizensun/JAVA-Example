@@ -50,6 +50,7 @@ public class Data {
 //        System.out.println(Data.average(memberArrayList));
 //       ////////////////////////////////////////////////////
 
+        //inner class
         Measurer ageMeasurer = new Measurer(){
             @Override
             public double measure(Object obj) {
@@ -73,6 +74,8 @@ public class Data {
         studentArrayList.add(s4);
 
         System.out.println(Data.average(studentArrayList, ageMeasurer));
+
+        //anonymous class
         System.out.println(Data.average(studentArrayList, new Measurer() {
             @Override
             public double measure(Object obj) {
@@ -80,7 +83,7 @@ public class Data {
             }
         }));
 
-
+        //ramda
         System.out.println(Data.average(studentArrayList, obj -> ((Student)obj).getScore()));
     }
 
