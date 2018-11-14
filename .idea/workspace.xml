@@ -180,55 +180,6 @@
       <change beforePath="$PROJECT_DIR$/../../../116/test1.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../116/test2.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../888.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L01/Fraction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L01/MainFraction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L02/Costomer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L02/MainCostomer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L03/MainNumberGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L03/NumberGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L04/MainMasterMind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L04/MasterMind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L05/.idea/L05.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L05/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L05/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L05/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L05/HangMan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L05/MainHangMan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L06/MainMasterBall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L06/MonsterBall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L07/Dictionary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L07/MainC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/L07/Vocabulary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/callBack/Data$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/callBack/Data$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/callBack/Data$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/callBack/Data$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/callBack/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/callBack/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/fileIO/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/fileIO/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/fileIO/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/fileIO/Subject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/fileIO/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/fileIO/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L01/Fraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L01_fraction/Fraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L01/MainFraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L01_fraction/MainFraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L02/Costomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L02_costomer/Costomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L02/MainCostomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L02_costomer/MainCostomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L03/MainNumberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L03_numberGame/MainNumberGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L03/NumberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L03_numberGame/NumberGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L04/MainMasterMind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L04_masterMind/MainMasterMind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L04/MasterMind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L04_masterMind/MasterMind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L05/.idea/L05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/L05_hangMan/.idea/L05.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L05/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/L05_hangMan/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L05/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/L05_hangMan/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/L05_hangMan/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L05/HangMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L05_hangMan/HangMan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L05/MainHangMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L05_hangMan/MainHangMan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L06/MainMasterBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L06_monsterBall/MainMasterBall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L06/MonsterBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L06_monsterBall/MonsterBall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L07/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L07_dictionary/Dictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L07/MainC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L07_dictionary/MainC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L07/Vocabulary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L07_dictionary/Vocabulary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/callBack/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/callBack/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fileIO/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fileIO/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fileIO/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fileIO/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fileIO/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/fileIO/test.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -338,7 +289,7 @@
     <session id="-529357387">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.12" value="1" />
@@ -494,7 +445,7 @@
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1615" />
-    <option name="height" value="879" />
+    <option name="height" value="880" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -541,11 +492,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541946183393" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541947672941" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../javaFX/dictionary" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -737,7 +688,7 @@
       <workItem from="1541773546604" duration="4944000" />
       <workItem from="1541834652471" duration="3331000" />
       <workItem from="1541845314857" duration="419000" />
-      <workItem from="1541944243529" duration="1293000" />
+      <workItem from="1541944243529" duration="2502000" />
     </task>
     <servers />
   </component>
@@ -774,11 +725,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172613000" />
+    <option name="totallyTimeSpent" value="173822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16040269" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
