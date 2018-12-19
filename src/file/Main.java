@@ -1,43 +1,74 @@
 package file;
 
 import java.io.*;
-import java.util.Date;
+import java.time.LocalDateTime;
 
-public class Main {
+public class Main{
     public static void main(String[] args) {
 
-        String sep = System.getProperty("file.separator");
-        String cwd = System.getProperty("user.dir");
-        Date date = new Date();
+        String cwd = System.getProperty("user.dir"); // return current working directory
+
+        String sep = System.getProperty("file.separator"); // each os is not the same sep
+
+//        String path =
+
+        /*
+        * file status method
+        *
+        * .exist()
+        * .isFile()
+        * .isDirectory()
+        * .isHidden()
+        *
+        * */
+
+        File jarDir = new File(Main.class.getProtectionDomain().getCodeSource().getLocation().getPath());
+        String p = jarDir.getParentFile().getAbsolutePath();
+
+        File newdir = new File(p + sep + "fileTextDir");
+        newdir.mkdir();
+
+        File newfile = new File(p + sep + "fileTextDir" + sep + "Test.txt");
+
+//        for (String filename : newdir.list) {
+//
+//        }
 
         try {
-            FileWriter fileWriter = new FileWriter("test.txt",true);
-            BufferedWriter writer = new BufferedWriter(fileWriter);
-
-            writer.write(date.toString() + " >>> " + cwd);
-            writer.newLine();
-
-            writer.close();
-
+            if(newfile.createNewFile()){
+//                System.out.println(newfile.getAbsolutePath());
+                System.out.println("Create file complete");
+            }
+            else{
+                System.out.println("Your file is duplicate");
+            }
         } catch (IOException e) {
-            System.err.println(e);
+            e.printStackTrace();
         }
 
         try {
-            FileReader fileReader = new FileReader("test.txt");
-            BufferedReader reader = new BufferedReader(fileReader);
+//            FileWriter fileWriter = new FileWriter(newfile);
+            BufferedWriter buffer = new BufferedWriter(new FileWriter(newfile, true));
+            buffer.write( newfile.getPath() + " >> " + LocalDateTime.now());
+            buffer.newLine();
 
+            buffer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        try {
+            BufferedReader buffet = new BufferedReader(new FileReader(newfile));
             String line = "";
-            while ( (line = reader.readLine()) != null){
+            while((line = buffet.readLine()) != null){
                 System.out.println(line);
             }
-        } catch (FileNotFoundException e) {
-            System.err.println(e);
+            buffet.close();
+        } catch (FileNotFoundException e) { // FileNotFount is sub IOException class
+            e.printStackTrace();
         } catch (IOException e) {
-            System.err.println(e);
+            e.printStackTrace();
         }
-
-
     }
 
 }
