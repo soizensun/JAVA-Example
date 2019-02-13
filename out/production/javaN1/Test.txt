@@ -1,3 +1,0 @@
-D:\Users\Desktop\folder\forStudy\_Java\javaN\javaN1\out\production\javaN1\Test.txt >> 2018-11-15T15:07:09.804589200
-D:\Users\Desktop\folder\forStudy\_Java\javaN\javaN1\out\production\javaN1\Test.txt >> 2018-11-15T15:07:13.219884700
-D:\Users\Desktop\folder\forStudy\_Java\javaN\javaN1\out\production\javaN1\Test.txt >> 2018-11-15T15:07:14.489272100

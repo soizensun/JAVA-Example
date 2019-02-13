@@ -7,244 +7,188 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30631f14-016c-4647-9f16-42dcb25ba79a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../javaFX/HangMan2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../javaFX/alramClock/src/imageExersice/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../javaFX/alramClock/src/imageExersice/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../javaFX/alramClock/src/imageExersice/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../javaFX/alramClock/src/imageExersice/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../javaFX/alramClock/src/imageExersice/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../javaFX/alramClock/src/imageExersice/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../javaFX/alramClock/src/imageExersice/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T02/CreativeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T03/RegistrationSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T03/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cashRegisterStrategyPattern/CACashRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cashRegisterStrategyPattern/CATexRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cashRegisterStrategyPattern/CashRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cashRegisterStrategyPattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cashRegisterStrategyPattern/NYCashRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cashRegisterStrategyPattern/NYTexRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cashRegisterStrategyPattern/TexBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weaterorama/CurrentConditionsObserverDisPlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weaterorama/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weaterorama/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weaterorama/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weaterorama/StatisticsObserverDisPlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weaterorama/WeaterData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../code/codejava/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../code/codejava/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../code/codejava/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../code/codejava/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../code/codejava/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../code/codepy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/10_Photolysis.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/11_cell_cycle_and_cell_division.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/12_/1_circulatory_system_ap59.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/12_/2_respiratory_system_ap59.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/13_/1_development_ap59.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/13_/2_reproduction_ap59.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/1_origin_of_life_pattanee_pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/2_genetic_first_semester_2014.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/3_/1_biodiversity_part1_supiyanit.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/3_/2_biodiversity-part-2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/3_/3_animal_kingdom (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/4_hormones_60.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/5_nervous_system-renew.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/6_cell_and_cell_structure_2016.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/7_ecology.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/8_energy_enzyme_and_metabolism.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/9_cellular_respiration_and_fermentation.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/11.การสิบพันธุ์.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/12._development.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/13_ecology.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/6._biodiversity_revised.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/7._plant_tissue.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/8.animal_tissue.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/9-10_mitosis-meiosis.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/Bio Lab.m4a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0021.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0022.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0023.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0024.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0025.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0026.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0027.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0028.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0029.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0030.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0031.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0032.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0033.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0034.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0035.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0036.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0037.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0038.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0039.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0040.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0041.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0042.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0043.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0044.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0045.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0046.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0047.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0048.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0049.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0050.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0051.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0052.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0053.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0054.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0055.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0056.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0057.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0058.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0059.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0060.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0061.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0062.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0063.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0064.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0065.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0066.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0067.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0068.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0069.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0070.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0071.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0072.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0073.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0074.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0075.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0076.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0077.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0078.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0079.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0081.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0082.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0083.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0084.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0085.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0086.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0087.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0088.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0089.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0090.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0091.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0092.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0093.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0094.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0095.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0096.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0097.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0098.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0099.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0101.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0102.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0103.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0104.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0105.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0106.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0107.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0108.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0109.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0111.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0113.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0114.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0115.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0116.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0117.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0118.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0119.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0120.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0121.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0122.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0123.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0124.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0125.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0126.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0127.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0129.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0130.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0131.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0132.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0133.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0134.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0135.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0136.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0137.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0138.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0139.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0140.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0141.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/แบบฝ_กห_ด-final-1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../116/lab04-04.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../116/lab04-06.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../116/test1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../116/test2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../888.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../114/01418112-04-Python-Functions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../114/01418112-05-Python-Lists-Fx.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../114/01418112-05-Python-Lists.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../114/Func-EX-Programs.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../114/syllabus-01999111-60.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../116/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../116/project/project59_5910450034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../116/saacsos_github" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaFX/javaFX.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/Test/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/Test/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/Test/Sub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/Test/Sub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/Test/Super.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/Test/Super.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/Test2/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/Test2/Derive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/Test2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/Test3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaN1/Test3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/callBack/Data$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/callBack/Data$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/callBack/Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/callBack/Measurable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/callBack/Measurer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/callBack/MemberCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/callBack/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/fileIO/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/fileIO/Subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaN1/fileIO/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/Sub.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/Super.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test2/Base.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test2/Derive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestCollection/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/callBack/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/callBackV1/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/callBack/Measurable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/callBackV1/Measurable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/callBack/Measurer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/callBackV1/Measurer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/callBack/MemberCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/callBackV1/MemberCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/callBack/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/callBackV1/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/file/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fileIO/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fileIO/Subject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fileIO/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testCallBack/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testCallBack/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaN1/Test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codec_cpp/codec/firstCharactor.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../code/codec_cpp/codec/firstCharactor.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/3d.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/01-basic-class-object/Account.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/01-basic-class-object/Student.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/01-basic-class-object/Vector.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/02-separate-code-file/v1 class implementation in header/Account.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/02-separate-code-file/v1 class implementation in header/AccountMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/02-separate-code-file/v2 only prototype in header/Account.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/02-separate-code-file/v2 only prototype in header/Account.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/02-separate-code-file/v2 only prototype in header/AccountMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/03-object-reference-pointer/RefPointerCopyMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/03-object-reference-pointer/Vector.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/03-object-reference-pointer/Vector.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/04-UML-class-diagram/UML class diagram example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/04-UML-class-diagram/UML class diagram example.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/05-constructor-style/Time-1-normal-constructor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/05-constructor-style/Time-2-member-init.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/05-constructor-style/Time-3-default-arg.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/05-constructor-style/Time-4-delegating-constructor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/06-exception/Time.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/06-exception/Time.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/06-exception/TimeMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/07-include-guard/Time.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/07-include-guard/Time.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/07-include-guard/TimeMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/08-scope/Scope1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/08-scope/Scope2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/09-this-pointer/Time.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/09-this-pointer/Time.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/09-this-pointer/TimeMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/10-const object member function/Time.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/10-const object member function/Time.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/10-const object member function/TimeMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/11-default memberwise assignment-copy constructor/1 using default copy constructor/Time.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/11-default memberwise assignment-copy constructor/1 using default copy constructor/Time.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/11-default memberwise assignment-copy constructor/1 using default copy constructor/TimeMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/11-default memberwise assignment-copy constructor/2 custom copy constructor/Time.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/11-default memberwise assignment-copy constructor/2 custom copy constructor/Time.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/11-default memberwise assignment-copy constructor/2 custom copy constructor/TimeMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/12-destructor/Time.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/12-destructor/Time.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/12-destructor/TimeMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/13-static member/Employee.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/13-static member/Employee.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/13-static member/EmployeeMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/14-friend func/Count.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/15-function method overload/Vector.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/15-function method overload/Vector.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/15-function method overload/VectorMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/16-operator overload/OperatorOverloadMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/16-operator overload/StringMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/16-operator overload/Time.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/16-operator overload/Time.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/16-operator overload/TimeMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/17-help-func-method/Time.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/17-help-func-method/Time.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/17-help-func-method/TimeMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/18-change-implem-not-effect-interface/Time.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/18-change-implem-not-effect-interface/Time.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/18-change-implem-not-effect-interface/TimeMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/19-dynamic-memory-management/Point.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/20-composition/Point.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/20-composition/Point.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/20-composition/Vector.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/20-composition/Vector.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/20-composition/VectorPointMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/21-Has-A-Is-A-diagram/composition.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/21-Has-A-Is-A-diagram/composition.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/21-Has-A-Is-A-diagram/inheritance-animal-hierarchy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/21-Has-A-Is-A-diagram/inheritance-animal-hierarchy.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/21-Has-A-Is-A-diagram/inheritance-univ-hierarchy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/21-Has-A-Is-A-diagram/inheritance-univ-hierarchy.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/22-1-inheritance-animal-example/Animal-Inheritance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/22-1-inheritance-animal-example/Animal-No-Inheritance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/22-2-inheritance-constructor-destructor/Animal-Constructor-Order.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/22-3-inheritance-employee-example/no inheritance (code duplication)/EmployeeMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/22-3-inheritance-employee-example/no inheritance (code duplication)/SaleEmployee.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/22-3-inheritance-employee-example/no inheritance (code duplication)/SaleEmployee.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/22-3-inheritance-employee-example/no inheritance (code duplication)/SaleSalaryEmployee.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/22-3-inheritance-employee-example/no inheritance (code duplication)/SaleSalaryEmployee.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/22-3-inheritance-employee-example/with inheritance/EmployeeMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/22-3-inheritance-employee-example/with inheritance/SaleEmployee.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/22-3-inheritance-employee-example/with inheritance/SaleEmployee.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/22-3-inheritance-employee-example/with inheritance/SaleSalaryEmployee.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/22-3-inheritance-employee-example/with inheritance/SaleSalaryEmployee.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/23-polymorphism/Animal-No-Polymorphim.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/23-polymorphism/Animal-Polymorphim.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/24-employee-polymorphism-abstract-class/DailyEmployee.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/24-employee-polymorphism-abstract-class/DailyEmployee.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/24-employee-polymorphism-abstract-class/Employee.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/24-employee-polymorphism-abstract-class/Employee.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/24-employee-polymorphism-abstract-class/EmployeeMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/24-employee-polymorphism-abstract-class/SalaryEmployee.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/24-employee-polymorphism-abstract-class/SalaryEmployee.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/24-employee-polymorphism-abstract-class/SaleEmployee.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/24-employee-polymorphism-abstract-class/SaleEmployee.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/C++ Code Example/24-employee-polymorphism-abstract-class/_DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/MusicPlayList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/QStock.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/Transportation4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/animal1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/animal2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/animal3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/animal4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/class_account.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/class_circle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/employee.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/inherit.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/monster.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/ol_mysicPlayList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/pythonInList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/student.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/test.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/test.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codecpp/test3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codejava/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codejava/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codejava/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codejava/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codejava/test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/codepy" beforeDir="false" afterPath="$PROJECT_DIR$/../../../code/codepy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/COPYING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/NEWS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/THANKS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/cs.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/d.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/demo.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/esp.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/gtypist.cs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/gtypist.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/gtypist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/gtypist.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/ktde.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/ktdk.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/ktdk2.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/ktdvorak.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/kten.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/ktfr.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/ktfr2.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/ktno.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/ktnumber.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/m.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/n.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/q.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/r.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/ru.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/s.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/t.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/ttde.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/u.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gtypist-2.8-w32/v.typ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../html/Pingendo.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../html/codehtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/other/-----.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/other/-.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/other/5544.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/other/66.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/other/Capture.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/other/automophic.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/other/java.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/other/jj.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/other/pitagolus.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/other/pr.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/other/ภ.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/other/ภภ.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/other/เครื่องคิดเลข.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/ศาสตร์แ่งแ่นดิน.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/ศาสตร์แ่งแ่นดิน.pptx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -354,9 +298,9 @@
     <session id="-529357387">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="68" />
-          <entry key="project.open.time.0" value="10" />
-          <entry key="project.open.time.1" value="23" />
+          <entry key="project.closed" value="73" />
+          <entry key="project.open.time.0" value="11" />
+          <entry key="project.open.time.1" value="24" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.152" value="1" />
           <entry key="project.open.time.2" value="2" />
@@ -365,40 +309,40 @@
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.26" value="6" />
-          <entry key="project.open.time.27" value="3" />
-          <entry key="project.open.time.28" value="3" />
-          <entry key="project.open.time.29" value="6" />
+          <entry key="project.open.time.27" value="4" />
+          <entry key="project.open.time.28" value="5" />
+          <entry key="project.open.time.29" value="7" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.30" value="3" />
           <entry key="project.open.time.32" value="2" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="68" />
+          <entry key="project.opened" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="1" />
-          <entry key="java" value="714" />
+          <entry key="java" value="724" />
           <entry key="testIOObject" value="4" />
           <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="714" />
+          <entry key="JAVA" value="724" />
           <entry key="PLAIN_TEXT" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="23961" />
+          <entry key="java" value="25042" />
           <entry key="txt" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="23961" />
+          <entry key="JAVA" value="25042" />
           <entry key="PLAIN_TEXT" value="74" />
         </counts>
       </usages-collector>
@@ -409,61 +353,57 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algolithm/BalancedParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/T01/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/T01/UIControler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="60" column="49" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/T01/CalculateArea.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/T01/House.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/T01/Pond.java">
+        <entry file="file://$PROJECT_DIR$/src/algolithm/FirstChar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="13" column="31" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="31" />
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/T01/Building.java">
+        <entry file="file://$PROJECT_DIR$/src/algolithm/FirstChar2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
               <folding>
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algolithm/Keyboard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" selection-start-column="3" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algolithm/Fibo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -493,14 +433,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/productAndStoreStrategyPattern/CountInStock.java" />
-        <option value="$PROJECT_DIR$/src/footballPatten/FileManager.java" />
-        <option value="$PROJECT_DIR$/src/footballPatten/Team.java" />
-        <option value="$PROJECT_DIR$/src/footballPatten/TeamPatten.java" />
-        <option value="$PROJECT_DIR$/src/footballPatten/FootballPlayer.java" />
-        <option value="$PROJECT_DIR$/src/footballPatten/Patten442.java" />
-        <option value="$PROJECT_DIR$/src/footballPatten/Patten451.java" />
-        <option value="$PROJECT_DIR$/src/footballPatten/Patten433.java" />
         <option value="$PROJECT_DIR$/src/footballPatten/Patten343.java" />
         <option value="$PROJECT_DIR$/src/footballPatten/Main.java" />
         <option value="$PROJECT_DIR$/src/testCallBack/Texable.java" />
@@ -544,6 +476,14 @@
         <option value="$PROJECT_DIR$/src/T01/Building.java" />
         <option value="$PROJECT_DIR$/src/T01/UIControler.java" />
         <option value="$PROJECT_DIR$/src/T01/Main.java" />
+        <option value="$PROJECT_DIR$/src/FileV2/Main.java" />
+        <option value="$PROJECT_DIR$/src/L01_fraction/MainFraction.java" />
+        <option value="$PROJECT_DIR$/src/algolithm/FirstChar1.java" />
+        <option value="$PROJECT_DIR$/src/algolithm/BalancedParentheses.java" />
+        <option value="$PROJECT_DIR$/src/algolithm/Fibo.java" />
+        <option value="$PROJECT_DIR$/src/algolithm/FirstChar.java" />
+        <option value="$PROJECT_DIR$/src/algolithm/FirstChar2.java" />
+        <option value="$PROJECT_DIR$/src/algolithm/Keyboard.java" />
       </list>
     </option>
   </component>
@@ -560,9 +500,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="590" />
-    <option name="height" value="1089" />
+    <option name="x" value="140" />
+    <option name="y" value="135" />
+    <option name="width" value="1615" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -571,6 +512,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -588,7 +530,7 @@
               <item name="javaN" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaN1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="emailSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="algolithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaN" type="b2602c69:ProjectViewProjectNode" />
@@ -596,35 +538,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="L01_fraction" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javaN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaN1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="T01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaN1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="T02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaN1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="T03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaN1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Test3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -633,11 +550,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545110348110" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549635894359" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../forTest16" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -683,7 +600,46 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.FirstChar">
+    <configuration name="BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algolithm.BalancedParentheses" />
+      <module name="javaN1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algolithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algolithm.Fibo" />
+      <module name="javaN1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algolithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algolithm.FirstChar" />
+      <module name="javaN1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algolithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="T02.Main" />
       <module name="javaN1" />
@@ -710,60 +666,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test3.Main" />
-      <module name="javaN1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T03.Main" />
-      <module name="javaN1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="T03.SimpleValidator" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaN1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jUnit5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jUnit5" />
-      <option name="MAIN_CLASS_NAME" value="jUnit5.StudentTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.StudentTest" />
       <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.BalancedParentheses" />
+      <item itemvalue="Application.Fibo" />
+      <item itemvalue="Application.FirstChar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstChar" />
+        <item itemvalue="Application.Fibo" />
+        <item itemvalue="Application.BalancedParentheses" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="JUnit.StudentTest" />
       </list>
     </recent_temporary>
   </component>
@@ -888,6 +804,12 @@
       <workItem from="1545019916718" duration="8419000" />
       <workItem from="1545052299578" duration="605000" />
       <workItem from="1545096520558" duration="12489000" />
+      <workItem from="1545711409395" duration="655000" />
+      <workItem from="1545714187209" duration="109000" />
+      <workItem from="1549536570863" duration="6699000" />
+      <workItem from="1549616226118" duration="3564000" />
+      <workItem from="1549633253965" duration="3037000" />
+      <workItem from="1550069059473" duration="632000" />
     </task>
     <servers />
   </component>
@@ -924,7 +846,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="351026000" />
+    <option name="totallyTimeSpent" value="365722000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -939,7 +861,7 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13624161" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18053691" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -948,7 +870,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4604027" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24697986" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986577" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1032,59 +954,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/weatheroramaVajUsa/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SubjectDUO/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GameCharacter/GameCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GameCharacter/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/6010405092Folder/6010405092.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weaterorama/CurrentConditionsObserverDisPlay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cashRegisterObserverParrern/CashRegister.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cashRegisterObserverParrern/FileObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-152">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/emailSystem.java" />
     <entry file="file://$PROJECT_DIR$/src/cashRegisterObserverParrern/GUIObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -1148,12 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
           <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1206,16 +1069,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/L01_fraction/MainFraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1230,30 +1083,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test3/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test3/RegistrationSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding>
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test3/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test3/RegistrationSystem.java" />
     <entry file="file://$PROJECT_DIR$/src/T03/DigitValidator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -1272,12 +1103,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1295,24 +1120,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/T02/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/T02/MiniTwitter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="28" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/T02/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/T02/MiniTwitter.java" />
     <entry file="file://$PROJECT_DIR$/src/T02/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1324,10 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="41" lean-forward="true" selection-start-line="1" selection-end-line="41" />
-          <folding>
-            <element signature="e#981#982#0" expanded="true" />
-            <element signature="e#1008#1009#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1349,17 +1154,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/T01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/file/ObjectIOMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileV2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/T01/UIControler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="60" column="49" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/T01/CalculateArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/T01/House.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1372,33 +1208,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/T01/Building.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/callBackV2_Measurable/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L01_fraction/MainFraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algolithm/FirstChar1.java" />
+    <entry file="file://$PROJECT_DIR$/src/algolithm/BalancedParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algolithm/Keyboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-line="1" />
           <folding>
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/T01/UIControler.java">
+    <entry file="file://$PROJECT_DIR$/src/algolithm/Fibo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="60" column="49" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="49" />
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/T01/CalculateArea.java">
+    <entry file="file://$PROJECT_DIR$/src/algolithm/FirstChar2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/T01/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/algolithm/FirstChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="190">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
